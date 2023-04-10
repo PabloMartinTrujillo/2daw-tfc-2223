@@ -20,13 +20,13 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
 * García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
 * Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)
+* Martín Trujillo, Pablo - [OM Ilustraciones](https://github.com/PabloMartinTrujillo/OM-Ilustraciones)
 * Mena Viñas, Julián - [Dreative](https://github.com/julianmenav/proyecto-final)
 * Moreno Alvarez, Carlos - [CostaClima](https://github.com/carlosalvarez13/ProyectoFinal)
 * Muñoz Valenzuela, Miguel Ángel - [AgroAssist](https://github.com/miguelmunval/ProyectoFinal)
 * Parrado Escribano, Juan Manuel - [ScullyonShop](https://github.com/juanmaparrado/ScullyonShop-tfc)
 * Salmerón Robles, Gonzalo - [CookMood](https://github.com/gonzalosalmeron/proyecto-final)
 * Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)
-* Vargas García, Juan Antonio - [TankoMarks](https://github.com/juanantoniovargar/TankoMarks)
 * Hitos García, Esther - [Nombre](https://github.com/)
 
 
